@@ -1,0 +1,6 @@
+This is an easy script to search for user files in specific directory 
+for example 
+
+
+to look for files and proceses for user "test"  in directory /home/test  execute the script next way
+./show_user_info_and_data.sh text /home/test
